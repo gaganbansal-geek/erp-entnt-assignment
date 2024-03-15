@@ -62,7 +62,6 @@ Here is the Little bit demonstration of this project in Pictures :
 ![Create Next App - Google Chrome 15-03-2024 13_25_18](https://github.com/gaganbansal-geek/erp-entnt-assignment/assets/76611617/057d9578-af8e-4102-b598-5901b397de9f)
 
 
-
-
+![Create Next App - Google Chrome 15-03-2024 13_32_08](https://github.com/gaganbansal-geek/erp-entnt-assignment/assets/76611617/ea0b62cc-bf7f-4384-a2db-a8c02fe72fda)
 
 
