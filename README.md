@@ -72,7 +72,7 @@ THis is order page where we can get track of all orders , their status , total m
 
 ![Create Next App - Google Chrome 15-03-2024 13_25_18](https://github.com/gaganbansal-geek/erp-entnt-assignment/assets/76611617/057d9578-af8e-4102-b598-5901b397de9f)
 
-This is page of invidual order page which orders having what products and their quantity
+This is page of invidual order page which orders having what products and their quantity you can also set their status from order page whether is pending or completed
 
 ![Create Next App - Google Chrome 15-03-2024 13_32_08](https://github.com/gaganbansal-geek/erp-entnt-assignment/assets/76611617/ea0b62cc-bf7f-4384-a2db-a8c02fe72fda)
 
